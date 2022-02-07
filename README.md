@@ -31,7 +31,7 @@
  
  ### EC2 de AWS
  
- Con la collection (EC2 AWS):
+ Con la collection (EC2 AWS): https://www.getpostman.com/collections/34cccc49e24259e819df
 
 _________________________________________________
 
