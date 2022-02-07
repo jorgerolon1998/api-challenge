@@ -138,6 +138,7 @@ Servicio que suma dos valores enteros
 ### Servicio para ver el historico de solicitudes: 
 
 Servicio que devuelve el historico de solicitudes paginado almacenado en la base de datos
+Para acceder a este recurso se requiere el rol admin
 
 - **URL: URL_BASE/api/history/request?page={page}&size={size} **
 - **Method:** GET
